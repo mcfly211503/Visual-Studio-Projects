@@ -1,0 +1,14 @@
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\bin\Debug\net8.0\19 de enero concatena.exe
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\bin\Debug\net8.0\19 de enero concatena.deps.json
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\bin\Debug\net8.0\19 de enero concatena.runtimeconfig.json
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\bin\Debug\net8.0\19 de enero concatena.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\bin\Debug\net8.0\19 de enero concatena.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.AssemblyInfoInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.AssemblyInfo.cs
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.csproj.CoreCompileInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\refint\19 de enero concatena.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\19 de enero concatena.genruntimeconfig.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero concatena\19 de enero concatena\obj\Debug\net8.0\ref\19 de enero concatena.dll

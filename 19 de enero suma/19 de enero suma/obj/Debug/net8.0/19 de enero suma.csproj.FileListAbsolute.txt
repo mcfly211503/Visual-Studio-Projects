@@ -1,0 +1,14 @@
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\bin\Debug\net8.0\19 de enero suma.exe
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\bin\Debug\net8.0\19 de enero suma.deps.json
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\bin\Debug\net8.0\19 de enero suma.runtimeconfig.json
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\bin\Debug\net8.0\19 de enero suma.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\bin\Debug\net8.0\19 de enero suma.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.AssemblyInfoInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.AssemblyInfo.cs
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.csproj.CoreCompileInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\refint\19 de enero suma.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\19 de enero suma.genruntimeconfig.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero suma\19 de enero suma\obj\Debug\net8.0\ref\19 de enero suma.dll

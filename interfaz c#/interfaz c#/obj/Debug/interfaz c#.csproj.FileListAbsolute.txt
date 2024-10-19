@@ -1,0 +1,10 @@
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\bin\Debug\interfaz c#.exe.config
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\bin\Debug\interfaz c#.exe
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\bin\Debug\interfaz c#.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz c#.csproj.AssemblyReference.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz_c_.Form1.resources
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz_c_.Properties.Resources.resources
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz c#.csproj.GenerateResource.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz c#.csproj.CoreCompileInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz c#.exe
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\interfaz c#\interfaz c#\obj\Debug\interfaz c#.pdb
