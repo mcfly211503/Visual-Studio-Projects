@@ -1,0 +1,22 @@
+Libro: uvh
+Autor: 17
+Contenido para: Solo apto para mayores de edad
+Disponibilidad: Actualmente, prestado a arturo
+
+Nombre: arturo
+Id: 4556
+Edad: 19
+Libros prestados: 1
+
+Libro: ub
+Autor: iyv
+Contenido para: Apto para todo Público
+Disponibilidad: Actualmente, prestado a uboj
+
+Nombre: uboj
+Id: 768
+Edad: 22
+Libros prestados: 1
+
+
+
