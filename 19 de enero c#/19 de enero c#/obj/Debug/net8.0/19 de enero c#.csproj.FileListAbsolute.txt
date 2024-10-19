@@ -1,0 +1,14 @@
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\bin\Debug\net8.0\19 de enero c#.exe
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\bin\Debug\net8.0\19 de enero c#.deps.json
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\bin\Debug\net8.0\19 de enero c#.runtimeconfig.json
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\bin\Debug\net8.0\19 de enero c#.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\bin\Debug\net8.0\19 de enero c#.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.AssemblyInfoInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.AssemblyInfo.cs
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.csproj.CoreCompileInputs.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\refint\19 de enero c#.dll
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.pdb
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\19 de enero c#.genruntimeconfig.cache
+C:\Users\Len\Documents\Visual Studio 2022\Codigos\19 de enero c#\19 de enero c#\obj\Debug\net8.0\ref\19 de enero c#.dll
